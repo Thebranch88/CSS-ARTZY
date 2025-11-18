@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #0d0a1a;
+  font-family: "Montserrat", sans-serif;
+  color: #f5f2ee;
+}
+
+.card {
+  width: 90%;
+  max-width: 1100px;
+  padding: 40px;
+  text-align: center;
+  background: #ff9100;
+  border-radius: 16px;
+}
+
+h1 {
+  font-family: "Patrick Hand", cursive;
+  font-size: 90px;
+  margin: 0;
+  color: #df1b1b;
+}
+
+.line {
+  width: 300px;
+  height: 5px;
+  background: #ff5a5a;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 22px;
+  color: #ffe9e9;
+}
+
+.corner {
+  font-size: 70px;
+  margin-top: 30px;
+  opacity: 0.4;
+}
